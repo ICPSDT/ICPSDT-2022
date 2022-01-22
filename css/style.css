@@ -41,7 +41,7 @@ body {
 #my-img {
 /*  background: url('../images/Rashid_130.149.jpg') no-repeat; */
   background: url('../images/cuet3.jpg') no-repeat;
-  border-radius: 8px;
+  border-radius: 0;
   width: 130px;
   height: 140px;
   margin: 12px 15px 10px 0;
